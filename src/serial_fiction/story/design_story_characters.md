@@ -1,0 +1,21 @@
+Main Characters:
+
+1. Aria Starling - A young Federation officer with a strong sense of justice and a desire to prove herself in a male-dominated hierarchy. Aria's background includes growing up on a remote colony planet, where she learned survival skills and developed a deep connection to nature. Her personality is driven, compassionate, and fiercely loyal to her comrades. Aria's motivations stem from a desire to protect the innocent and bring peace to the galaxy. Throughout the story, she will face moral dilemmas that challenge her beliefs and force her to confront the complexities of war and power.
+
+2. Orion Blackthorn - The mysterious leader of the Shadows of Epsilon, a group of rebels fighting against the oppressive rule of the Galactic Federation. Orion's background is cloaked in secrecy, with rumors suggesting he was once a high-ranking Federation officer before defecting to lead the rebellion. His personality is charismatic, enigmatic, and driven by a deep desire for freedom and equality. Orion's motivations are rooted in his own past traumas and a thirst for vengeance against those who have wronged him. As the story unfolds, his relationship with Aria will evolve from enemies to reluctant allies, challenging both of their beliefs and pushing them to reconsider their goals.
+
+Supporting Characters:
+
+1. Commander Lyra Solstice - A seasoned officer in the Galactic Federation, tasked with leading the mission to retrieve the ancient artifact on Arcturus Prime. Lyra's background includes a prestigious military career and a close friendship with Aria. Her personality is stoic, strategic, and fiercely loyal to the Federation. Lyra's motivations revolve around duty and honor, but she will face internal conflicts as she begins to question the Federation's true intentions.
+
+2. Ember Nightshade - A skilled pilot and mechanic, known for her quick wit and fearless attitude. Ember's background is filled with tales of daring escapades and close encounters with danger. Her personality is adventurous, sarcastic, and fiercely independent. Ember's motivations lie in seeking thrills and excitement, but she will find herself drawn into the conflict between the Federation and the Shadows of Epsilon, testing her loyalty to her friends and her own moral compass.
+
+Minor Characters:
+
+1. Captain Rylan Frost - A grizzled veteran of the Galactic Federation, tasked with training new recruits and providing support for Aria's mission. Rylan's background includes decades of service in various conflicts across the galaxy, shaping him into a tough but fair mentor. His personality is gruff, no-nonsense, and fiercely protective of his squad. Rylan's motivations center around ensuring the safety of his team and passing on his knowledge to the next generation of soldiers.
+
+2. Nova Skye - A young scientist working for the Federation's research division, tasked with studying the ancient artifact on Arcturus Prime. Nova's background includes a brilliant academic career and a passion for unraveling the mysteries of the universe. Her personality is curious, analytical, and eager to make groundbreaking discoveries. Nova's motivations revolve around unlocking the secrets of the artifact and advancing scientific knowledge, but she will face ethical dilemmas as the consequences of her research become clear.
+
+Antagonist:
+
+1. High General Malakai Vex - A ruthless commander in the Galactic Federation, driven by a thirst for power and a desire to maintain control over the galaxy. Malakai's background is shrouded in rumors of corruption and manipulation, with whispers of dark experiments and secret alliances. His personality is cold, calculating, and utterly devoid of empathy. Malakai's motivations stem from a deep-seated belief in his own superiority and a willingness to do whatever it takes to achieve his goals. As the story progresses, his actions will escalate the conflict between the Federation and the Shadows of Epsilon, leading to devastating consequences for all involved.

@@ -1,0 +1,9 @@
+In the world of Seven Halos, the setting is a vast and diverse galaxy filled with unique planets, alien species, and advanced technology. The rules of the world are governed by a balance of power between various factions, each vying for control and dominance. The history of the universe is rich and complex, with ancient prophecies and long-standing conflicts shaping the present day.
+
+The culture in Seven Halos is a mix of traditional values and modern sensibilities, with different species and civilizations coexisting in a delicate balance. Technology plays a crucial role in the world, with advanced starships, weapons, and communication devices shaping the way of life for its inhabitants.
+
+The magic system in Seven Halos is based on the manipulation of energy and cosmic forces, with individuals harnessing supernatural abilities through training and discipline. Creatures in the world range from humanoid aliens to monstrous beasts, each with their own unique traits and abilities.
+
+The characters in Seven Halos are diverse and dynamic, with the protagonist starting as an ordinary man who discovers his true potential as the chosen one. Along his journey, he encounters allies and enemies alike, forming complex relationships that will shape the outcome of the galactic war.
+
+Overall, Seven Halos promises to deliver an exciting and humorous adventure that blends elements of science fiction, fantasy, and comedy. With epic battles, comedic moments, and a protagonist's transformation into a pivotal figure in the universe, this story will captivate audiences and draw inspiration from beloved works like Lord of The Rings and Scott Pilgrim vs The World.
