@@ -1,21 +1,44 @@
 Main Characters:
 
-1. Aria Starling - A young Federation officer with a strong sense of justice and a desire to prove herself in a male-dominated hierarchy. Aria's background includes growing up on a remote colony planet, where she learned survival skills and developed a deep connection to nature. Her personality is driven, compassionate, and fiercely loyal to her comrades. Aria's motivations stem from a desire to protect the innocent and bring peace to the galaxy. Throughout the story, she will face moral dilemmas that challenge her beliefs and force her to confront the complexities of war and power.
+1. Alex:
+Background: A high school student who stumbles upon a powerful halo on Halloween night, triggering a series of events that lead him into a galactic war between angels.
+Personality: Initially hesitant and unsure of his abilities, Alex grows into a courageous and determined leader throughout the series.
+Motivations: To uncover the truth about his past and his connection to the halo, protect his friends and family, and bring peace to the universe.
+Relationships: Forms close bonds with his allies and struggles with trust issues as he navigates through the war.
+Character Arc: Alex undergoes a transformation from an ordinary teenager to a powerful hero, learning to embrace his destiny and make difficult decisions for the greater good.
 
-2. Orion Blackthorn - The mysterious leader of the Shadows of Epsilon, a group of rebels fighting against the oppressive rule of the Galactic Federation. Orion's background is cloaked in secrecy, with rumors suggesting he was once a high-ranking Federation officer before defecting to lead the rebellion. His personality is charismatic, enigmatic, and driven by a deep desire for freedom and equality. Orion's motivations are rooted in his own past traumas and a thirst for vengeance against those who have wronged him. As the story unfolds, his relationship with Aria will evolve from enemies to reluctant allies, challenging both of their beliefs and pushing them to reconsider their goals.
+2. Seraphina:
+Background: A fierce and loyal angel warrior fighting for her faction's cause in the war.
+Personality: Strong-willed, honorable, and devoted to her mission, but also harbors doubts about the righteousness of her side's actions.
+Motivations: To prove her worth to her superiors, uphold the values of her faction, and find a way to end the conflict without further bloodshed.
+Relationships: Develops a complex dynamic with Alex, torn between her duty and her growing feelings for him.
+Character Arc: Seraphina grapples with her beliefs, confronts the moral complexities of war, and ultimately makes a pivotal choice that impacts the outcome of the conflict.
 
 Supporting Characters:
 
-1. Commander Lyra Solstice - A seasoned officer in the Galactic Federation, tasked with leading the mission to retrieve the ancient artifact on Arcturus Prime. Lyra's background includes a prestigious military career and a close friendship with Aria. Her personality is stoic, strategic, and fiercely loyal to the Federation. Lyra's motivations revolve around duty and honor, but she will face internal conflicts as she begins to question the Federation's true intentions.
-
-2. Ember Nightshade - A skilled pilot and mechanic, known for her quick wit and fearless attitude. Ember's background is filled with tales of daring escapades and close encounters with danger. Her personality is adventurous, sarcastic, and fiercely independent. Ember's motivations lie in seeking thrills and excitement, but she will find herself drawn into the conflict between the Federation and the Shadows of Epsilon, testing her loyalty to her friends and her own moral compass.
+3. Gabriel:
+Background: A wise and powerful archangel who serves as a mentor to Alex and guides him in understanding his role in the war.
+Personality: Calm, insightful, and compassionate, with a deep understanding of the universe and its cosmic balance.
+Motivations: To assist Alex in fulfilling his destiny, protect the innocent, and maintain order in the celestial realms.
+Relationships: Acts as a father figure to Alex, offering guidance and wisdom in times of need.
+Character Arc: Gabriel faces his own internal struggles and confronts his past mistakes, ultimately finding redemption and closure through his interactions with Alex.
 
 Minor Characters:
 
-1. Captain Rylan Frost - A grizzled veteran of the Galactic Federation, tasked with training new recruits and providing support for Aria's mission. Rylan's background includes decades of service in various conflicts across the galaxy, shaping him into a tough but fair mentor. His personality is gruff, no-nonsense, and fiercely protective of his squad. Rylan's motivations center around ensuring the safety of his team and passing on his knowledge to the next generation of soldiers.
+4. Luna:
+Background: A mischievous and playful celestial being who aids Alex on his journey, possessing mysterious powers and knowledge.
+Personality: Eccentric, enigmatic, and whimsical, with a penchant for trickery and riddles.
+Motivations: To assist Alex in his quest, challenge his perceptions, and bring a sense of wonder and magic to the story.
+Relationships: Shares a playful camaraderie with Alex, often providing cryptic advice and guidance.
+Character Arc: Luna's true nature and intentions remain shrouded in mystery, adding an element of intrigue and unpredictability to the narrative.
 
-2. Nova Skye - A young scientist working for the Federation's research division, tasked with studying the ancient artifact on Arcturus Prime. Nova's background includes a brilliant academic career and a passion for unraveling the mysteries of the universe. Her personality is curious, analytical, and eager to make groundbreaking discoveries. Nova's motivations revolve around unlocking the secrets of the artifact and advancing scientific knowledge, but she will face ethical dilemmas as the consequences of her research become clear.
+Antagonists:
 
-Antagonist:
+5. Lucifer:
+Background: The fallen angel who seeks to claim the halo's power for himself and reign supreme over the universe.
+Personality: Charismatic, cunning, and manipulative, with a dark allure that draws others to his cause.
+Motivations: To overthrow the celestial hierarchy, exact vengeance upon his rivals, and reshape reality in his image.
+Relationships: Manipulates and deceives both allies and enemies alike, using their weaknesses against them.
+Character Arc: Lucifer's descent into darkness and obsession with power leads him down a path of self-destruction, culminating in a final confrontation with Alex that tests the limits of his ambition and resolve.
 
-1. High General Malakai Vex - A ruthless commander in the Galactic Federation, driven by a thirst for power and a desire to maintain control over the galaxy. Malakai's background is shrouded in rumors of corruption and manipulation, with whispers of dark experiments and secret alliances. His personality is cold, calculating, and utterly devoid of empathy. Malakai's motivations stem from a deep-seated belief in his own superiority and a willingness to do whatever it takes to achieve his goals. As the story progresses, his actions will escalate the conflict between the Federation and the Shadows of Epsilon, leading to devastating consequences for all involved.
+By fleshing out the characters of Seven Halos with intricate backgrounds, complex personalities, compelling motivations, intricate relationships, and meaningful character arcs, the story gains depth, emotional resonance, and narrative richness that will captivate and engage readers or players in the epic saga of cosmic conflict and self-discovery.

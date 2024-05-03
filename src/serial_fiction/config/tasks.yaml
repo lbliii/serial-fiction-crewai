@@ -7,21 +7,24 @@ research_story_concept:
 
 build_story_world:
   description: >
-    Build the world of the story, including the setting, the rules of the world, the history, the culture, the technology, the magic system, the creatures, the characters, and the relationships between them. Provide a summary of the world for helping flesh out the story.
+    Build the world of the story, including the setting, the rules of the world, the history, the culture, the technology, the magic system, the creatures, the characters, and the relationships between them. Provide a summary of the world for helping flesh out the story. Here is the initial concept:
+    {story_concept}
   expected_output: >
     A summary of the story world, including the setting, the rules of the world, the history, the culture, the technology, the magic system, the creatures, the characters, and the relationships between them.
   output_file: story/build_story_world.md
 
 plan_story_plot:
   description: >
-    Plan the "season" of the story's over-arching plot, subplots, acts, and scenes, and provide a summary of the plot for helping flesh out the story. Identify the key turning points, conflicts, and resolutions. List the scenes and acts in a logical order. Include the character arcs and the character development in the plot.
+    Plan the "season" of the story's over-arching plot, subplots, acts, and scenes, and provide a summary of the plot for helping flesh out the story. Identify the key turning points, conflicts, and resolutions. List the scenes and acts in a logical order. Include the character arcs and the character development in the plot. Here is the initial concept:
+    {story_concept}
   expected_output: >
     A summary of the story plot, including the over-arching plot, subplots, acts, scenes, key turning points, conflicts, resolutions, character arcs, and character development.
   output_file: story/plan_story_plot.md
 
 design_story_characters:
   description: >
-    Design the characters of the story, including the main characters, the supporting characters, the minor characters, and the antagonists. Provide a summary of the characters for helping flesh out the story. Include the character's background, personality, motivations, relationships, and character arcs.
+    Design the characters of the story, including the main characters, the supporting characters, the minor characters, and the antagonists. Provide a summary of the characters for helping flesh out the story. Include the character's background, personality, motivations, relationships, and character arcs. Here is the initial concept:
+    {story_concept}
   expected_output: >
     A summary of the story characters, including the main characters, the supporting characters, the minor characters, and the antagonists, with their background, personality, motivations, relationships, and character arcs.
   output_file: story/design_story_characters.md
