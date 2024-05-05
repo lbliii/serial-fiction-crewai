@@ -3,7 +3,6 @@ research_story_concept:
     Do research on the story concept, related common tropes, styles, story arcs, and provide a summary of the findings for helping flesh out the initial concept and outline the story. {story_concept}
   expected_output: >
     A summary of the research findings on the story concept, related common tropes, styles, story arcs, and other relevant information that can help flesh out the initial concept and outline the story.
-  output_file: story/research_story_concept.md
 
 build_story_world:
   description: >
@@ -11,7 +10,6 @@ build_story_world:
     {story_concept}
   expected_output: >
     A summary of the story world, including the setting, the rules of the world, the history, the culture, the technology, the magic system, the creatures, the characters, and the relationships between them.
-  output_file: story/build_story_world.md
 
 plan_story_plot:
   description: >
@@ -19,7 +17,6 @@ plan_story_plot:
     {story_concept}
   expected_output: >
     A summary of the story plot, including the over-arching plot, subplots, acts, scenes, key turning points, conflicts, resolutions, character arcs, and character development.
-  output_file: story/plan_story_plot.md
 
 design_story_characters:
   description: >
@@ -27,35 +24,30 @@ design_story_characters:
     {story_concept}
   expected_output: >
     A summary of the story characters, including the main characters, the supporting characters, the minor characters, and the antagonists, with their background, personality, motivations, relationships, and character arcs.
-  output_file: story/design_story_characters.md
 
 write_story_episode:
   description: >
     Write the episodes of the story, including the dialogues, the actions, the emotions, and the conflicts. Provide a summary of the episodes for helping flesh out the story. Include the episode's structure, the episode's pacing, the episode's cliffhangers, and the episode's impact on the story.
   expected_output: >
     A summary of the story episodes, including the dialogues, the actions, the emotions, the conflicts, the structure, the pacing, the cliffhangers, and the impact on the story.
-  output_file: story/episode/original-copy.md
 
 edit_story:
   description: >
     Edit the story, including the plot, the world, the characters, the episodes, and the dialogues. Provide feedback on the story for helping improve the story. Identify the plot holes, the inconsistencies, the cliches, the pacing issues, the character issues, and the episode issues. Suggest changes, revisions, and improvements to the story.
   expected_output: >
     Feedback on the story, including the plot holes, the inconsistencies, the cliches, the pacing issues, the character issues, the episode issues, and suggestions for changes, revisions, and improvements.
-  output_file: story/episode/edited-copy.md
   
 update_story_lore:
   description: >
     Update the lore of the story, including the setting, the rules of the world, the history, the culture, the technology, the magic system, the creatures, the characters, and the relationships between them. Provide a summary of the updated lore for helping flesh out the story.
   expected_output: >
     A summary of the updated lore of the story, including the setting, the rules of the world, the history, the culture, the technology, the magic system, the creatures, the characters, and the relationships between them.
-  output_file: story/lore.md
 
 update_story_timeline:
   description: >
     Update the timeline of the story, including the events, the conflicts, the resolutions, the character arcs, and the character development. Provide a summary of the updated timeline for helping flesh out the story.
   expected_output: >
     A summary of the updated timeline of the story, including the events, the conflicts, the resolutions, the character arcs, and the character development.
-  output_file: story/timeline.md
 
 consult_with_keepers:
   description: >

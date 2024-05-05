@@ -1,7 +1,0 @@
-In the world of Seven Halos, the universe is a vast and mysterious place filled with ancient powers and cosmic beings. The story begins on Halloween night in the bustling city of New York, where a 27-year-old gay man stumbles upon a techy-looking halo in the depths of the subway. Little does he know, this halo is no ordinary accessory – it holds immense power and is one of the Seven Halos that can shape the very fabric of reality.
-
-As our protagonist dons the halo as part of his angel costume for a party, he unwittingly becomes entangled in a galactic war between six other angels, each vying for control of the universe. The stakes are high, as the angel who collects all Seven Halos will gain the power to reshape the universe according to their desires.
-
-The world of Seven Halos is a unique blend of science fiction, fantasy, and comedy, where technology and magic coexist in a harmonious yet chaotic balance. The halo itself is not just a mere object, but a sentient being with its own personality and agenda, much like Sauron's ring or the sorting hat from Harry Potter.
-
-Throughout the story, our protagonist must navigate through perilous battles, quirky allies, and unexpected twists and turns as he embarks on a quest to gather the Seven Halos and ultimately decide the fate of the universe. With elements reminiscent of Lord of the Rings and Scott Pilgrim vs The World, Seven Halos promises to take readers on a thrilling journey through a world unlike any other.

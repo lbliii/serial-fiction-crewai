@@ -2,9 +2,14 @@ import yaml
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
 from langchain_openai import ChatOpenAI
+import os
+os.environ["OPENAI_API_KEY"] = "NA"
 
+# llm = ChatOpenAI(model="gpt-3.5-turbo")
 
-llm = ChatOpenAI(model="gpt-3.5-turbo")
+llm = ChatOpenAI(
+    model = "llama3",
+    base_url = "http://localhost:11434/v1")
 
 # Load YAML configuration
 def load_yaml(file_path):
@@ -22,6 +27,8 @@ class SerialFictionCrew():
         self.model = llm
         self.agents_config = load_yaml(self.agents_config_file)
         self.tasks_config = load_yaml(self.tasks_config_file)
+        self.episode_num = 1
+        self.timeline_entry_num = 1
     
     @agent
     def concept_researcher(self):
@@ -77,7 +84,7 @@ class SerialFictionCrew():
         return Agent(
             config = self.agents_config['timeline_keeper'],
             llm = self.model
-        )
+            )
         
     @task 
     def research_story_concept(self) -> Task:
@@ -111,7 +118,10 @@ class SerialFictionCrew():
     def write_story_episode(self) -> Task:
         return Task(
             config = self.tasks_config['write_story_episode'],
-            agent = self.episode_writer()
+            agent = self.episode_writer(),
+            inputs = {
+                "episode_num": self.episode_num
+            }
         )
         
     @task
@@ -148,9 +158,6 @@ class SerialFictionCrew():
             agents = self.agents,
             tasks = self.tasks,
             process=Process.hierarchical,
-            verbose=True,
+            verbose=2,
             manager_llm=self.model
         )
-        
-
-    
